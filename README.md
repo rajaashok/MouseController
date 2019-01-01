@@ -71,5 +71,9 @@ and then start the controller
 ```
 <venv> C:\...\..> python GestureControl.py
 ```
+To run Smile Detection module
+```
+<venv> C:\...\..> python SmileDetector.py
+```
 
 ## END
